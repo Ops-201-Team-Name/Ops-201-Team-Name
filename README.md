@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1mfziO70T9tKcc3qhBMXgVBHUGIIdl0B7PW8jmWpaFjY/edit
+
 # Ops 201 Final Project Requirements
 
 ## Scenario
