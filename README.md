@@ -4,7 +4,7 @@
 ### 2) Tommy S Taylor II - CEO
 [Tommy's Linkedin](https://www.linkedin.com/in/taylortommy/)
 ### 4) Heraldo Morale - CFO
-[Heraldo's Linkedin](https://www.linkedin.com/in/heraldo-morales/)&emps;| &emsp;[Github](https://github.com/HeraldoM332) 
+[Heraldo's Linkedin](https://www.linkedin.com/in/heraldo-morales/)&emsp;| &emsp;[Github](https://github.com/HeraldoM332) 
 ### 5) Zachariah Woodbridge - VP
 [Zach's Linkedin](https://www.linkedin.com/in/zachariahw/) | [GitHub](https://github.com/Z-ZachattackZ)\
 
