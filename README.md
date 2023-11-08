@@ -1,6 +1,6 @@
 Team-Name Team Members:
 1) Arturo Laguna - President\
-[Arturo's Linkedin](https://www.linkedin.com/in/arturo-laguna-81129320a/)
+[Linkedin](https://www.linkedin.com/in/arturo-laguna-81129320a/)[GitHub](https://github.com/Random9904)
 2) Tommy S Taylor II - CEO\
 [Tommy's Linkedin](https://www.linkedin.com/in/taylortommy/)
 4) Heraldo Morale - CFO\
