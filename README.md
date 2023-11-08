@@ -6,7 +6,7 @@ Team-Name Team Members:
 4) Heraldo Morale - CFO\
 [Heraldo's Linkedin]()
 5) Zachariah Woodbridge - VP\
-[Zach's Linkedin](https://www.linkedin.com/in/zachariahw/)
+[Zach's Linkedin](https://www.linkedin.com/in/zachariahw/) | [GitHub](https://github.com/Z-ZachattackZ)\
         Project Management Tool Utilized: [(https://team-name.atlassian.net/jira/core/projects/TN/board)]
 ## SOPs
 ### SOP1
