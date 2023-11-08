@@ -7,3 +7,9 @@ Team-Name Team Members:
 [Heraldo's Linkedin]()
 5) Zachariah Woodbridge - VP\
 [Zach's Linkedin](https://www.linkedin.com/in/zachariahw/)
+
+## SOPs
+### SOP1
+[Team Agreement](https://docs.google.com/document/d/1mfziO70T9tKcc3qhBMXgVBHUGIIdl0B7PW8jmWpaFjY/edit?usp=sharing)
+###SOP2
+[Repo and Tooling](https://docs.google.com/document/d/18rEzQ0IVMz2JFJqPdz2CyuLGngcyhTNlE5MJf7nESi4/edit)
