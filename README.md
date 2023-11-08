@@ -1,4 +1,5 @@
 https://docs.google.com/document/d/1mfziO70T9tKcc3qhBMXgVBHUGIIdl0B7PW8jmWpaFjY/edit
+https://docs.google.com/document/d/18rEzQ0IVMz2JFJqPdz2CyuLGngcyhTNlE5MJf7nESi4/edit?usp=sharing
 
 # Ops 201 Final Project Requirements
 
