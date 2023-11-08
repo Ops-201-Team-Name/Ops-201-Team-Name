@@ -1,9 +1,9 @@
 Team-Name Team Members:
-1) Arturo Laguna - President
-- [
-2) Tommy S Taylor II - CEO
-
-4) Heraldo Morale - CFO
-
+1) Arturo Laguna - President\
+[Arturo's Linkedin]()
+2) Tommy S Taylor II - CEO\
+[Tommy's Linkedin](https://www.linkedin.com/in/taylortommy/)
+4) Heraldo Morale - CFO\
+[Heraldo's Linkedin]()
 5) Zachariah Woodbridge - VP\
 [Zach's Linkedin](https://www.linkedin.com/in/zachariahw/)
