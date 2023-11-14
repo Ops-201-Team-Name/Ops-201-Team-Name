@@ -1,13 +1,8 @@
-[Google Drive](https://drive.google.com/drive/folders/1kzuXICE41qlAqVyT5H4juJ1cT_pSzR5k?usp=drive_link)
 ## Team-Name Team Members:
-### 1) Arturo Laguna - President
-[Linkedin](https://www.linkedin.com/in/arturo-laguna-81129320a/)&emsp;|&emsp;[GitHub](https://github.com/Random9904)
-### 2) Tommy S Taylor II - CEO
-[Tommy's Linkedin](https://www.linkedin.com/in/taylortommy/) | [ GitHub](https://github.com/taylortommy23)
-### 4) Heraldo Morale - CFO
-[Heraldo's Linkedin](https://www.linkedin.com/in/heraldo-morales/)&emsp;| &emsp;[Github](https://github.com/HeraldoM332) 
-### 5) Zachariah Woodbridge - VP
-[Zach's Linkedin](https://www.linkedin.com/in/zachariahw/) | [GitHub](https://github.com/Z-ZachattackZ)\
+### 1) Arturo Laguna - President [Linkedin](https://www.linkedin.com/in/arturo-laguna-81129320a/)&emsp;|&emsp;[GitHub](https://github.com/Random9904)
+### 2) Tommy S Taylor II - CEO [Tommy's Linkedin](https://www.linkedin.com/in/taylortommy/) | [ GitHub](https://github.com/taylortommy23)
+### 4) Heraldo Morale - CFO [Heraldo's Linkedin](https://www.linkedin.com/in/heraldo-morales/)&emsp;| &emsp;[Github](https://github.com/HeraldoM332) 
+### 5) Zachariah Woodbridge - VP [Zach's Linkedin](https://www.linkedin.com/in/zachariahw/) | [GitHub](https://github.com/Z-ZachattackZ)\
 
 ## Project Management Tools:
 [Jira](https://team-name.atlassian.net/jira/core/projects/TN/board)
