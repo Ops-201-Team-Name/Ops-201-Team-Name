@@ -4,8 +4,6 @@
 ### 4) Heraldo Morale - CFO [Heraldo's Linkedin](https://www.linkedin.com/in/heraldo-morales/)&emsp;| &emsp;[Github](https://github.com/HeraldoM332) 
 ### 5) Zachariah Woodbridge - VP [Zach's Linkedin](https://www.linkedin.com/in/zachariahw/) | [GitHub](https://github.com/Z-ZachattackZ)\
 
-## Project Management Tools:
-[Jira](https://team-name.atlassian.net/jira/core/projects/TN/board)
 ## SOPs
 ### SOP1
 [Team Agreement](https://docs.google.com/document/d/1mfziO70T9tKcc3qhBMXgVBHUGIIdl0B7PW8jmWpaFjY/edit?usp=sharing)
