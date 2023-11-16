@@ -65,8 +65,11 @@ This project seeks to enhance the company's operations by expanding its content 
 **[Google Drive for Desktop](https://www.google.com/drive/download/)** |
 **[Thunderbird Email Client](https://www.thunderbird.net/en-US/)** |
 **[FreeFileSync](https://freefilesync.org/)** |
+**[Windows 10 VM - 15GB](https://drive.proton.me/urls/A38M1XEG0W#DM7Db8zLn92P)** | 
+**[Ubuntu Desktop VM - 6GB](https://drive.proton.me/urls/JZFTEH5MSM#dlGvirbRcYnv)** |
 
 ## Standard Operating Procedures:
-**[Wiki](https://github.com/Ops-201-Team-Name/Ops-201-Team-Name/wiki)**
+All SOPs are located in our **[Wiki](https://github.com/Ops-201-Team-Name/Ops-201-Team-Name/wiki)**.
 
-[15-Nov-2023] Created by Zachariah Woodbridge
+## Brought to you by:
+Zachariah Woodbridge - 16-Nov-2023
