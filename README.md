@@ -61,11 +61,12 @@ The project aims to expand the success of an existing educational YouTube channe
 **Conclusion:**
 This project seeks to enhance the company's operations by expanding its content portfolio, optimizing remote work processes, and providing tailored technology solutions. Through effective collaboration, diverse device support, and robust data management, the company aims to maintain its success in the dynamic landscape of online education.
 ## Materials:
-[Google Workspace](https://workspace.google.com/)
-[Google Drive for Desktop](https://www.google.com/drive/download/)
-[Thunderbird Email Client](https://www.thunderbird.net/en-US/)
-[FreeFileSync](https://freefilesync.org/)
+**[Google Workspace](https://workspace.google.com/)** | 
+**[Google Drive for Desktop](https://www.google.com/drive/download/)** |
+**[Thunderbird Email Client](https://www.thunderbird.net/en-US/)** |
+**[FreeFileSync](https://freefilesync.org/)** |
 
 ## Standard Operating Procedures:
-[Wiki](https://github.com/Ops-201-Team-Name/Ops-201-Team-Name/wiki)
+**[Wiki](https://github.com/Ops-201-Team-Name/Ops-201-Team-Name/wiki)**
 
+[15-Nov-2023] Created by Zachariah Woodbridge
